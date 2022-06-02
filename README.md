@@ -1798,3 +1798,7 @@ https://github.com/omshub
 ### Back to Dev Ltd
 Bridging the gap between education and being a fully pro dev
 https://back2.dev
+
+### Hoppscotch
+Open source API development ecosystem.
+https://hoppscotch.io
